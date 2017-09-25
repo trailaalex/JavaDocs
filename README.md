@@ -1,2 +1,1 @@
-# JavaDocs
-Java Training Sessions
+# Reflection
